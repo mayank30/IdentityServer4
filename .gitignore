@@ -201,7 +201,6 @@ docs/_build/
 tools/
 
 # Visual Studio Code workspace options
-.vscode
 
 # IdentityServer temp files
 identityserver4_log.txt
@@ -212,3 +211,7 @@ workspace.xml
 
 src/IdentityServer4/host/identityserver.db
 tempkey.jwk
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
